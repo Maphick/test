@@ -3,7 +3,7 @@ import java.util.regex.Pattern;
 
 public class Main {
     public static void main(String[] args) {
-        exercise_5_10();
+        exercise_5_8();
     }
 
     public  static void exercise_5_10() {
